@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/mbrancal/project_C++/chessgame/build/src",
+  "command": "/usr/bin/c++   -I/home/mbrancal/project_C++/chessgame/include  -g   -o CMakeFiles/chessgame.dir/chessgame.cpp.o -c /home/mbrancal/project_C++/chessgame/src/chessgame.cpp",
+  "file": "/home/mbrancal/project_C++/chessgame/src/chessgame.cpp"
+},
+{
+  "directory": "/home/mbrancal/project_C++/chessgame/build/src",
+  "command": "/usr/bin/c++   -I/home/mbrancal/project_C++/chessgame/include  -g   -o CMakeFiles/chessgamelib.dir/interface.cpp.o -c /home/mbrancal/project_C++/chessgame/src/interface.cpp",
+  "file": "/home/mbrancal/project_C++/chessgame/src/interface.cpp"
+},
+{
+  "directory": "/home/mbrancal/project_C++/chessgame/build/src",
+  "command": "/usr/bin/c++   -I/home/mbrancal/project_C++/chessgame/include  -g   -o CMakeFiles/chessgamelib.dir/board.cpp.o -c /home/mbrancal/project_C++/chessgame/src/board.cpp",
+  "file": "/home/mbrancal/project_C++/chessgame/src/board.cpp"
+},
+{
+  "directory": "/home/mbrancal/project_C++/chessgame/build/src",
+  "command": "/usr/bin/c++   -I/home/mbrancal/project_C++/chessgame/include  -g   -o CMakeFiles/chessgamelib.dir/rules.cpp.o -c /home/mbrancal/project_C++/chessgame/src/rules.cpp",
+  "file": "/home/mbrancal/project_C++/chessgame/src/rules.cpp"
+},
+{
+  "directory": "/home/mbrancal/project_C++/chessgame/build/tests",
+  "command": "/usr/bin/c++   -I/home/mbrancal/project_C++/chessgame/include  -g   -o CMakeFiles/chessgame_tests.dir/test.cpp.o -c /home/mbrancal/project_C++/chessgame/tests/test.cpp",
+  "file": "/home/mbrancal/project_C++/chessgame/tests/test.cpp"
+}
+]

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/chessgame_tests.dir/test.cpp.o  -o chessgame_tests  ../src/libchessgamelib.a 

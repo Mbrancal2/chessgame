@@ -1,0 +1,12 @@
+/home/mbrancal/project_C++/chessgame/build/CMakeFiles/rebuild_cache.dir
+/home/mbrancal/project_C++/chessgame/build/CMakeFiles/edit_cache.dir
+/home/mbrancal/project_C++/chessgame/build/CMakeFiles/test.dir
+/home/mbrancal/project_C++/chessgame/build/src/CMakeFiles/rebuild_cache.dir
+/home/mbrancal/project_C++/chessgame/build/src/CMakeFiles/edit_cache.dir
+/home/mbrancal/project_C++/chessgame/build/src/CMakeFiles/test.dir
+/home/mbrancal/project_C++/chessgame/build/src/CMakeFiles/chessgame.dir
+/home/mbrancal/project_C++/chessgame/build/src/CMakeFiles/chessgamelib.dir
+/home/mbrancal/project_C++/chessgame/build/tests/CMakeFiles/rebuild_cache.dir
+/home/mbrancal/project_C++/chessgame/build/tests/CMakeFiles/edit_cache.dir
+/home/mbrancal/project_C++/chessgame/build/tests/CMakeFiles/test.dir
+/home/mbrancal/project_C++/chessgame/build/tests/CMakeFiles/chessgame_tests.dir
